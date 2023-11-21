@@ -1,0 +1,16 @@
+Tutorialas = https://www.youtube.com/watch?v=n3U4jFbp05M
+
+3:51
+
+
+progress list:
+
+1.boilerplate
+2. added some css rules for initialized css document.
+3.added script.js
+4.finished the code
+5. there is a bug, it does not save to browser storage
+6. fixed the bugs with chatGPT, turns out there were 2 typos.
+7 it works.
+7.1-> needs style rework to wolt
+8.-> needs upload to vercel
