@@ -25,7 +25,8 @@ CREATE_BTN.addEventListener("click", ()=>{
     let img = document.createElement("img");
     inputBox.className = "input-box";
     inputBox.setAttribute("contenteditable", "true");
-    img.src = "img/deleteMINI.jpg";
+    img.src = "img/delete_button_mini.webp";
+    img.style.width = "10%";
     NOTES_CONTAINER.appendChild(inputBox).appendChild(img);
 })
 

@@ -7,7 +7,7 @@
 .container {
     width: 100%;
     min-height: 100vh;
-background: linear-gradient(360deg, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 100%);
+background: linear-gradient(360deg, rgb(0, 0, 0) 50%, rgb(23, 176, 247) 100%);
     padding-top: 14%;
     padding-left:37%;
     display:flex;
@@ -40,7 +40,7 @@ background: linear-gradient(360deg, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 10
     color: black;
     font-size: 16px;
     outline: 0;
-    border: 0;
+    border: 3px solid rgb(34, 59, 95);
     border-radius: 40px;
     padding:20px 25px;
     margin:20px 0 20px;
@@ -55,13 +55,13 @@ background: linear-gradient(360deg, rgba(253,29,29,1) 50%, rgba(252,176,69,1) 10
     position: relative;
     margin-left:3%;
     max-width:400px;
-    min-height:150px;
-    background: white;
+    min-height:100px;
+    background: rgb(41, 7, 7);
     outline: none;
     border-radius:5 px;
-    opacity:30%;
+    opacity:60%;
     border: 1px solid black;
-    color:black;
+    color:rgb(255, 255, 255);
     margin-top:5px;
     margin-bottom:1%;
 }
